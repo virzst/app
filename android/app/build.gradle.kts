@@ -17,7 +17,7 @@ plugins {
 }
 
 android {
-    namespace = "com.prikitiww.app"
+    namespace = "com.voyre.app"
     compileSdk = 36
     ndkVersion = "27.0.12077973"
 
@@ -31,7 +31,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.prikitiww.app"
+        applicationId = "com.voyre.app"
         minSdk = 23                         // ✅ ganti di sini
         targetSdk = 36
         versionCode = flutter.versionCode
