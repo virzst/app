@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class Api {
-  static const String _fallbackUrl = 'http://209.97.170.188:4482';
+  static const String _fallbackUrl = 'http://159.89.102.173:2000';
 
   static const String _remoteConfigUrl =
       'https://raw.githubusercontent.com/virzst/Virzdb/main/x.json';
