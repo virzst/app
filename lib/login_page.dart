@@ -217,7 +217,7 @@ class _LoginPageState extends State<LoginPage>
           if (showContact)
             TextButton(
               onPressed: () async {
-                await launchUrl(Uri.parse("https://t.me/FCH01Z"),
+                await launchUrl(Uri.parse("https://t.me/AllinformationVirz"),
                     mode: LaunchMode.externalApplication);
               },
               child: const Text(
