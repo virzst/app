@@ -315,7 +315,7 @@ class _LandingPageState extends State<LandingPage> with SingleTickerProviderStat
                             borderRadius: BorderRadius.circular(16),
                           ),
                         ),
-                        onPressed: () => _openUrl("https://t.me/kaell_Xz"),
+                        onPressed: () => _openUrl("https://t.me/Virzofc"),
                         child: Row(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
@@ -346,7 +346,7 @@ class _LandingPageState extends State<LandingPage> with SingleTickerProviderStat
                           child: _buildContactButton(
                             icon: FontAwesomeIcons.telegram,
                             label: "Telegram Channel",
-                            url: "https://t.me/MyThe5",
+                            url: "https://t.me/AllinformationVirz",
                             color: const Color(0xFF0088cc),
                           ),
                         ),
